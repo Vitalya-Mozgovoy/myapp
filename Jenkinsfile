@@ -1,6 +1,6 @@
 pipeline {
   environment {
-    dockerimagename = "serv/myapp"
+    dockerimagename = "vitserv/myapp"
     dockerImage = ""
     
   }
